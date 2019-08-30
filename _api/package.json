@@ -3,5 +3,8 @@
     "description": "This project is for practicing skill in Node.js and express.",
     "keywords": ["freecodecamp", "practice", "express", "node.js"],
     "license": "MIT",
-    "version": "1.0"
+    "version": "1.0",
+    "dependencies": {
+        "express": "4.14.0"
+    }
 }
